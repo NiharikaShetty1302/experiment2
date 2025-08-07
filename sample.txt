@@ -2,3 +2,6 @@ welcome to devops lab
 
 
 
+welcome to devops lab
+experiment 1:user registration form
+experiment 2: git and github commands
